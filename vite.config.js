@@ -5,7 +5,7 @@ import AutoImport from 'unplugin-auto-import/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vue2.7-playgroud/',
+  base: '/vue2.7-playgroud/dist/',
   plugins: [
     vue(),
     vueJsx(),
